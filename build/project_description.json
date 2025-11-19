@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "idf_191125",
-    "project_version":    "1",
+    "project_version":    "2f21008-dirty",
     "project_path":       "E:/ESP_IDF_PROJECT/idf_191125",
     "idf_path":           "E:/Espressif/frameworks/esp-idf-v5.4",
     "build_dir":          "E:/ESP_IDF_PROJECT/idf_191125/build",
@@ -1195,7 +1195,7 @@
             "managed_reqs": [],
             "managed_priv_reqs": [],
             "file": "E:/ESP_IDF_PROJECT/idf_191125/build/esp-idf/main/libmain.a",
-            "sources": [ "E:/ESP_IDF_PROJECT/idf_191125/main/main.c", "E:/ESP_IDF_PROJECT/idf_191125/main/user_task.c" ],
+            "sources": [ "E:/ESP_IDF_PROJECT/idf_191125/main/main.c", "E:/ESP_IDF_PROJECT/idf_191125/main/user_task.c", "E:/ESP_IDF_PROJECT/idf_191125/build/hivemq_root_ca.pem.S" ],
             "include_dirs": [ "." ]
         },
         "mbedtls": {

@@ -14,6 +14,7 @@ if("${CONFIG}" STREQUAL "" OR "${CONFIG}" STREQUAL "")
   "flash_bootloader_args"
   "flash_project_args"
   "flasher_args.json"
+  "hivemq_root_ca.pem.S"
   "idf_191125.bin"
   "idf_191125.map"
   "ldgen_libraries"
